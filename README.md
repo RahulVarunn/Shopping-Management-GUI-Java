@@ -1,11 +1,11 @@
 # GUI-SHOPPING-MANAGEMNET
 
-PROJECT IS BASED ON SHOPPING MANAGEMENT.
-USER CAN SIGN IN OR SIGNUP HERE,
-CUSTOMER CAN BUY ANY DESIRE PRODUCT ,
-AFTER BUYING A PERTICULAR PRODUCT USER CAN MOVE FOR THE PAYMENT PROCESS.
-AFTER COMPLETION OF PAYMENT PROCESS THE CAN VIEW THE ORDER DETAILS.
-THE USER WILL ALSO PROVIDED THE CANCELLATION PROCESS .
+Project Is Based On Shopping Management.
+User Can Sign In Or Signup Here,
+Customer Can Buy Any Desire Product ,
+After Buying A Perticular Product User Can Move For The Payment Process.
+After Completion Of Payment Process The Can View The Order Details.
+The User Will Also Provided The Cancellation Process .
 
 
 Project Category
