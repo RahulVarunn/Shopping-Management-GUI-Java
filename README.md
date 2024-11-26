@@ -1,24 +1,48 @@
-# GUI-SHOPPING-MANAGEMNET
 
-Project Is Based On Shopping Management.
-User Can Sign In Or Signup Here,
-Customer Can Buy Any Desire Product ,
-After Buying A Perticular Product User Can Move For The Payment Process.
-After Completion Of Payment Process The Can View The Order Details.
-The User Will Also Provided The Cancellation Process .
+# SHOPPING MANAGEMENT (GUI)
+
+## Project Overview
+
+The GUI-SHOPPING-MANAGEMENT project is a desktop application designed to streamline the shopping experience. Users can sign up or log in to their accounts, browse and purchase desired products, proceed through the payment process, view order details, and even cancel orders if necessary. The application offers a user-friendly graphical interface to enhance usability and ensure a smooth shopping experience.
+
+## Project Category
+
+This project falls under desktop application development.
+
+Structure of the Project
+
+The project was developed using Eclipse IDE (2021-06) and the following technologies:
+
+Frontend
+
+	•	Java Swing: For creating the graphical user interface (GUI).
+	•	AWT: For lightweight GUI components.
+	•	Adobe XD: Used for prototyping and designing the UI layout.
+
+Backend
+
+	•	Java: The core programming language for application logic.
+	•	JDBC (Java Database Connectivity): To manage interactions with the database.
 
 
-# Project Category
+## Features
 
-The project is based on desktop application
+	1.	User Authentication
+	•	Sign In and Sign Up functionality.
+	2.	Product Purchase
+	•	Browse and select desired products.
+	3.	Payment Processing
+	•	Integrated payment gateway simulation.
+	4.	Order Management
+	•	View order details upon successful purchase.
+	•	Option to cancel orders if required.
 
-# Structure of Project 
+ ## Development Tools
 
-this desktop Application is developed on Esclipse 2021-06 (4.20.0)
-technologies used 
+	•	Eclipse 2021-06 (4.20.0): For writing and managing Java code.
+	•	Java Swing & AWT: For creating the GUI components.
+	•	Adobe XD: For designing the user interface.
 
-Frontend:  adobexd , Swing , awt
-Backend:   java , Jdbc
 
 # Output
 
